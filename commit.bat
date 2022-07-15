@@ -1,5 +1,5 @@
 #!/bin/sh
-git add .
+git add *
 git commit -m "made changes"
 git push
 echo Press Enter...
